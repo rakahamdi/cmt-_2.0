@@ -13,7 +13,7 @@ $palette: (
 		3: #33363A
 	),
 	primary: (
-		1: #6163FF,
+		1: #9E0000,
 		2: #ACADFF,
 		3: #5658DD,
 		4: #E9E9FF
@@ -65,7 +65,7 @@ $icon--color: (
 	social-hover: 			get-color(primary, 2),			// social icons (:hover)
 	modal:					get-color(light, 3),			// modal icon
 	modal-hover:			get-color(light, 2),			// modal icon (:hover)
-    news-more:			    get-color(primary, 2),		// news - read more link arrow    
+    news-more:			    get-color(primary, 2),		// news - read more link arrow
 	// ↓ Inverted colors
 	hamburger-inverse:		get-color(dark, 2),				// hamburger icon
 	accordion-inverse:		get-color(primary, 1),			// accordion icon
